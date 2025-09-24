@@ -397,7 +397,6 @@ Need help? Contact us:
 
 - 📧 **Email**: singhamritraj898@gmail.com
 - 💬 **Discord**: [Join our community](https://discord.gg/studentqr)
-- 📖 **Documentation**: [Full Docs](https://docs.studentqr.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/student-qr-management/issues)
 
 ---
