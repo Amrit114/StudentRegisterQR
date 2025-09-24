@@ -391,15 +391,6 @@ copies or substantial portions of the Software.
 - **Apache Tomcat**: For reliable web server hosting
 
 ---
-
-<div align="center">
-
-**Made with ❤️ for educational institutions worldwide**
-
-
-</div>
-
-
 ## 📞 Support
 
 Need help? Contact us:
@@ -415,7 +406,9 @@ Need help? Contact us:
 
 ### 🌟 **Star this repository if it helped you!**
 
-### 🌟 **Made with ❤️ by Amrit Raj Singh**
+**Made with ❤️ for educational institutions worldwide**
+
+**Developed by Amrit Raj Singh**
 
 
 [⬆ Back to Top](#-student-qr-management-system)
